@@ -1,0 +1,11 @@
+{
+    "author": "Shivesh Shrivastava",
+    "name": "censorify-test",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
